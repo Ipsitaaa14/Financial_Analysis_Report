@@ -24,7 +24,7 @@ It provides insights into MTD (Month-to-Date), QTD (Quarter-to-Date), and YTD (Y
 - Channel Partners drive the largest share of Profit Margin %.
 
 ## Dataset Used
-![Dataset](Finance_Dataset.xlx)
+![Dataset](Finance_Dataset.xlsx)
 
 
 ## 📂 Dashboard Pages
